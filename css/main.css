@@ -2997,7 +2997,8 @@ input[type="checkbox"]{
 .download-bottom
 { text-align: center;
 align-items: center;
-align-content: center;}
+align-content: center;
+justify-content:center;}
 
 
 .col-footer
